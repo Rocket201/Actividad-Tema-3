@@ -1,6 +1,6 @@
 export const obtenerNombreyApell = () => {
 
-  document.write("<h1> PRÁTICA 3-DWEC </h1>");
+  document.write("<h1> PRÁTICA 3-DWEC </h1><hr>");
   let nombre;
   let apellidos;
 
